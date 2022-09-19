@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CobaltWiz
-- 👀 I’m interested in Mechine Learning and AI
+- 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Machine Learning on Python
 - 💞️ I’m looking to collaborate on any exciting new python projects
 - 📫 How to reach me : rahilkodinariya363@gmail.com
